@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/github/followers/traxzzy.svg?style=social&label=Follow&maxAge=2592000">
 </p>
 
-<div>
-  ![Snake animation](https://github.com/traxzzyini/traxzzy/blob/output/github-contribution-grid-snake.svg)
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" 
+ 
+  ![Snake animation](https://github.com/traxzzy/traxzzy/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
